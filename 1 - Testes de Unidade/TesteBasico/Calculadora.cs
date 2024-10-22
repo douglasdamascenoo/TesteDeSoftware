@@ -1,4 +1,4 @@
-namespace Demo.TesteBasico;
+namespace TesteBasico;
 
 public class Calculadora
 {

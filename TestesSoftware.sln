@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Testes de Unidade", "1 - Testes de Unidade", "{7C179FA0-E0B3-457B-B199-B79D5153D380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.TesteBasico", "1 - Testes de Unidade\Demo.TesteBasico\Demo.TesteBasico.csproj", "{EB9D78E9-55E6-4011-8CE5-2C2AE29ECFE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteBasico", "1 - Testes de Unidade\TesteBasico\TesteBasico.csproj", "{EB9D78E9-55E6-4011-8CE5-2C2AE29ECFE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.TesteBasico.Test", "1 - Testes de Unidade\Demo.TesteBasico.Test\Demo.TesteBasico.Test.csproj", "{6289F3E4-2BBF-489E-8285-AF8E020C173F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteBasico.Test", "1 - Testes de Unidade\TesteBasico.Test\TesteBasico.Test.csproj", "{6289F3E4-2BBF-489E-8285-AF8E020C173F}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
