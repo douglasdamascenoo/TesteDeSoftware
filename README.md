@@ -2,6 +2,7 @@
 O projeto foi construído durante o treinamento do curso ***Dominando os Testes de Software*** realizado no portal [Desenvolvedor.io](https://desenvolvedor.io/).
 
 Para elaboração do projeto, primeiramente criei uma pasta para servir de base da estrutura da solução, nomeei-a de *TestesSoftware*. Após, dentro da referida pasta criei um arquivo de `solution` de mesmo nome com o seguinte comando `dotnet new sln`.
+A seguir apresento os projetos, tipos e *features* exploradas durante o curso. 
 
 ### 1. Teste de Unidade
 > Criação do primeiros testes de unidade.
