@@ -17,7 +17,7 @@ dotnet new classlib -o TesteBasico
 dotnet new xunit -o TesteBasico.Test
 ```
 
-### 2. Fixtures
+### 2. Features
 > Apresentação de Features
 
 2.1 Traits
